@@ -1,0 +1,10 @@
+import React from 'react';
+import { Text, View } from 'react-native';
+
+const Cat = () => {
+	return (
+		<Text> Hello I am your Cat!</Text>
+);
+}
+
+export default HelloWorldApp;
